@@ -1,0 +1,13 @@
+section.qr-container { height: 100vh; }
+.card { padding: 10px; border-radius: 15px; width: 23rem; }
+h5.card-title.text-center { margin: 20px 0px 25px 0px; font-weight: bold; font-size: 23px; }
+p { font-size: 18px; }
+img.card-img-top { border-radius: 10px; }
+section.qr-container { background-color: #d5e1ef; }
+.row.flex-align {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+}
